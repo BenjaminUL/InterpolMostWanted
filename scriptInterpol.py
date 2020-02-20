@@ -31,7 +31,7 @@ event.set_date(date.today())
 
 #
 
-misp_url = "http://192.168.40.129"
+misp_url = "https://192.168.40.129:8443"
 misp_key = "QWJveTdNk8eLowBZM9VG2JR0jGOFY6oLKAsyFs1D"
 misp_verifycert = False
 #
